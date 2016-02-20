@@ -324,18 +324,18 @@ a.button {
   filter: alpha(opacity=100);
 }
 .carousel-controls .carousel-control.left {
-  background-image: url('../image/default/icon-prev.png');
+  background-image: url('../../image/default/icon-prev.png');
 }
 .carousel-controls .carousel-control.left:hover {
-  background-image: url('../image/default/icon-prev-hover.png');
+  background-image: url('../../image/default/icon-prev-hover.png');
 }
 .carousel-controls .carousel-control.right {
-  background-image: url('../image/default/icon-next.png');
+  background-image: url('../../image/default/icon-next.png');
   left: 62px;
   right: auto;
 }
 .carousel-controls .carousel-control.right:hover {
-  background-image: url('../image/default/icon-next-hover.png');
+  background-image: url('../../image/default/icon-next-hover.png');
 }
 .carousel-control {
   color: #000000;
@@ -406,13 +406,13 @@ ul.list a.active ul {
   right: 10px;
 }
 .tree-menu > ul > li .head a .icon-collapse {
-  background: url('../image/default/icon-minus.png') center center no-repeat;
+  background: url('../../image/default/icon-minus.png') center center no-repeat;
   width: 14px;
   height: 14px;
   display: block;
 }
 .tree-menu > ul > li .head a.collapsed .icon-collapse {
-  background: url('../image/default/icon-plus.png') center center no-repeat;
+  background: url('../../image/default/icon-plus.png') center center no-repeat;
   width: 14px;
   height: 14px;
   display: block;
@@ -507,7 +507,7 @@ ul.list a.active ul {
   cursor: pointer;
 }
 .attention {
-  background: #fff5cc url('../image/attention.png') 10px center no-repeat;
+  background: #fff5cc url('../../image/attention.png') 10px center no-repeat;
   border: 1px solid #F2DD8C;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -516,7 +516,7 @@ ul.list a.active ul {
   border-radius: 5px;
 }
 .warning {
-  background: #ffd1d1 url('../image/warning.png') 10px center no-repeat;
+  background: #ffd1d1 url('../../image/warning.png') 10px center no-repeat;
   border: 1px solid #F8ACAC;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -536,7 +536,7 @@ ul.list a.active ul {
   color: #FF0000;
 }
 .success {
-  background: #eaf7d9 url('../image/success.png') 10px center no-repeat;
+  background: #eaf7d9 url('../../image/success.png') 10px center no-repeat;
   border: 1px solid #BBDF8D;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -639,7 +639,7 @@ fieldset[disabled] .form-control {
   margin: 0 auto;
 }
 body.layout-boxed-md {
-  background: url("../image/pattern/pattern14.png");
+  background: url("../../image/pattern/pattern14.png");
 }
 body.layout-boxed-md #page {
   max-width: 970px;
@@ -647,7 +647,7 @@ body.layout-boxed-md #page {
   box-shadow: 0 0 5px #888888;
 }
 body.layout-boxed-lg {
-  background: url("../image/pattern/pattern14.png");
+  background: url("../../image/pattern/pattern14.png");
 }
 body.layout-boxed-lg #page {
   max-width: 1170px;
@@ -864,7 +864,7 @@ body .home-home4 .img-overlay:hover a:before {
   text-align: center;
   top: 0;
   width: 30px;
-  background: url('../image/default/icon-search.png') no-repeat center center scroll;
+  background: url('../../image/default/icon-search.png') no-repeat center center scroll;
 }
 #topbar ul li a {
   font-size: 12px;
@@ -985,7 +985,7 @@ body .home-home4 .img-overlay:hover a:before {
   height: 70px;
 }
 .home3 #logo-theme a {
-  background: url('../image/default/logo_small.png') no-repeat;
+  background: url('../../image/default/logo_small.png') no-repeat;
   display: inline-block;
   width: 110px;
   height: 70px;
@@ -1012,7 +1012,7 @@ body .home-home4 .img-overlay:hover a:before {
   display: inline-block;
 }
 .home-default #logo-theme a {
-  background: url('../image/default/logo.png') no-repeat;
+  background: url('../../image/default/logo.png') no-repeat;
   width: 155px;
   height: 95px;
 }
@@ -1390,7 +1390,7 @@ body .home-home4 .img-overlay:hover a:before {
 }
 #cart .heading a cart-total {
   text-decoration: none;
-  background: url('../image/default/arrow-down.png') 100% 50% no-repeat;
+  background: url('../../image/default/arrow-down.png') 100% 50% no-repeat;
   padding-right: 12px;
   color: #666666;
 }
@@ -1471,7 +1471,7 @@ body .home-home4 .img-overlay:hover a:before {
   right: 0;
   text-align: center;
   top: 0;
-  background: url('../image/default/icon-search.png') no-repeat center center scroll;
+  background: url('../../image/default/icon-search.png') no-repeat center center scroll;
 }
 /* 
  * box products 
@@ -1909,7 +1909,7 @@ ul.list li:before {
 .tp-leftarrow.default {
   z-index: 20;
   cursor: pointer;
-  background: url('../image/default/large_left.png') no-repeat 0 0 scroll;
+  background: url('../../image/default/large_left.png') no-repeat 0 0 scroll;
   width: 40px;
   height: 72px;
   left: 0!important;
@@ -1917,7 +1917,7 @@ ul.list li:before {
 .tp-rightarrow.default {
   z-index: 20;
   cursor: pointer;
-  background: url('../image/default/large_right.png') no-repeat 0 0 scroll;
+  background: url('../../image/default/large_right.png') no-repeat 0 0 scroll;
   width: 40px;
   height: 72px;
   right: 0!important;
@@ -2088,7 +2088,7 @@ ul.list li:before {
 }
 .newsletter {
   text-align: center;
-  background: #f5f5f5 url('../image/default/email.png') no-repeat 91px -106px;
+  background: #f5f5f5 url('../../image/default/email.png') no-repeat 91px -106px;
   border-top: 1px solid #000000;
   margin-top: 10px;
   padding: 5px 20px;
@@ -2389,7 +2389,7 @@ h1.heading_title {
   float: left;
 }
 .product-filter .display button {
-  background: url('../image/default/icon-grid-list.png') no-repeat 0 0 scroll;
+  background: url('../../image/default/icon-grid-list.png') no-repeat 0 0 scroll;
   display: inline-block;
   border-left: 1px solid #ededed;
   float: left;
@@ -3579,29 +3579,29 @@ padding: 0 @product-padding;
 }
 @font-face {
   font-family: 'brandon';
-  src: url('../fonts/brandon_reg-webfont.eot');
-  src: url('../fonts/brandon_reg-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/brandon_reg-webfont.woff') format('woff'), url('../fonts/brandon_reg-webfont.ttf') format('truetype'), url('../fonts/brandon_reg-webfont.svg#brandon') format('svg');
+  src: url('../../fonts/brandon_reg-webfont.eot');
+  src: url('../../fonts/brandon_reg-webfont.eot?#iefix') format('embedded-opentype'), url('../../fonts/brandon_reg-webfont.woff') format('woff'), url('../../fonts/brandon_reg-webfont.ttf') format('truetype'), url('../../fonts/brandon_reg-webfont.svg#brandon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'brandon_light';
-  src: url('../fonts/brandon_light-webfont.eot');
-  src: url('../fonts/brandon_light-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/brandon_light-webfont.woff') format('woff'), url('../fonts/brandon_light-webfont.ttf') format('truetype'), url('../fonts/brandon_light-webfont.svg#brandon_grotesquelight') format('svg');
+  src: url('../../fonts/brandon_light-webfont.eot');
+  src: url('../../fonts/brandon_light-webfont.eot?#iefix') format('embedded-opentype'), url('../../fonts/brandon_light-webfont.woff') format('woff'), url('../../fonts/brandon_light-webfont.ttf') format('truetype'), url('../../fonts/brandon_light-webfont.svg#brandon_grotesquelight') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'brandon_bold';
-  src: url('../fonts/brandon_bld-webfont.eot');
-  src: url('../fonts/brandon_bld-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/brandon_bld-webfont.woff') format('woff'), url('../fonts/brandon_bld-webfont.ttf') format('truetype'), url('../fonts/brandon_bld-webfont.svg#brandon_grotesquebold') format('svg');
+  src: url('../../fonts/brandon_bld-webfont.eot');
+  src: url('../../fonts/brandon_bld-webfont.eot?#iefix') format('embedded-opentype'), url('../../fonts/brandon_bld-webfont.woff') format('woff'), url('../../fonts/brandon_bld-webfont.ttf') format('truetype'), url('../../fonts/brandon_bld-webfont.svg#brandon_grotesquebold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'brandon_black';
-  src: url('../fonts/brandon_blk-webfont.eot');
-  src: url('../fonts/brandon_blk-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/brandon_blk-webfont.woff2') format('woff2'), url('../fonts/brandon_blk-webfont.woff') format('woff'), url('../fonts/brandon_blk-webfont.ttf') format('truetype'), url('../fonts/brandon_blk-webfont.svg#brandon_grotesqueblack') format('svg');
+  src: url('../../fonts/brandon_blk-webfont.eot');
+  src: url('../../fonts/brandon_blk-webfont.eot?#iefix') format('embedded-opentype'), url('../../fonts/brandon_blk-webfont.woff2') format('woff2'), url('../../fonts/brandon_blk-webfont.woff') format('woff'), url('../../fonts/brandon_blk-webfont.ttf') format('truetype'), url('../../fonts/brandon_blk-webfont.svg#brandon_grotesqueblack') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -3782,13 +3782,13 @@ select {
   margin-right: 5px;
 }
 .support .service .icon.media-fs {
-  background: url('../image/default/icon-media-fs.png') no-repeat 0 0;
+  background: url('../../image/default/icon-media-fs.png') no-repeat 0 0;
 }
 .support .service .icon.media-sc {
-  background: url('../image/default/icon-media-sc.png') no-repeat 0 0;
+  background: url('../../image/default/icon-media-sc.png') no-repeat 0 0;
 }
 .support .service .icon.media-th {
-  background: url('../image/default/icon-media-th.png') no-repeat 0 0;
+  background: url('../../image/default/icon-media-th.png') no-repeat 0 0;
 }
 .support .service .title-media {
   color: #000000;
@@ -3800,52 +3800,52 @@ select {
 }
 /* Background body */
 .pattern1 {
-  background-image: url('../image/pattern/pattern1.png');
+  background-image: url('../../image/pattern/pattern1.png');
 }
 .pattern2 {
-  background-image: url('../image/pattern/pattern2.png');
+  background-image: url('../../image/pattern/pattern2.png');
 }
 .pattern3 {
-  background-image: url('../image/pattern/pattern3.png');
+  background-image: url('../../image/pattern/pattern3.png');
 }
 .pattern4 {
-  background-image: url('../image/pattern/pattern4.png');
+  background-image: url('../../image/pattern/pattern4.png');
 }
 .pattern5 {
-  background-image: url('../image/pattern/pattern5.png');
+  background-image: url('../../image/pattern/pattern5.png');
 }
 .pattern6 {
-  background-image: url('../image/pattern/pattern6.png');
+  background-image: url('../../image/pattern/pattern6.png');
 }
 .pattern7 {
-  background-image: url('../image/pattern/pattern7.png');
+  background-image: url('../../image/pattern/pattern7.png');
 }
 .pattern8 {
-  background-image: url('../image/pattern/pattern8.png');
+  background-image: url('../../image/pattern/pattern8.png');
 }
 .pattern9 {
-  background-image: url('../image/pattern/pattern9.png');
+  background-image: url('../../image/pattern/pattern9.png');
 }
 .pattern10 {
-  background-image: url('../image/pattern/pattern10.png');
+  background-image: url('../../image/pattern/pattern10.png');
 }
 .pattern11 {
-  background-image: url('../image/pattern/pattern11.png');
+  background-image: url('../../image/pattern/pattern11.png');
 }
 .pattern12 {
-  background-image: url('../image/pattern/pattern12.png');
+  background-image: url('../../image/pattern/pattern12.png');
 }
 .pattern13 {
-  background-image: url('../image/pattern/pattern13.png');
+  background-image: url('../../image/pattern/pattern13.png');
 }
 .pattern14 {
-  background-image: url('../image/pattern/pattern14.png');
+  background-image: url('../../image/pattern/pattern14.png');
 }
 .pattern15 {
-  background-image: url('../image/pattern/pattern15.png');
+  background-image: url('../../image/pattern/pattern15.png');
 }
 .pattern16 {
-  background-image: url('../image/pattern/pattern16.png');
+  background-image: url('../../image/pattern/pattern16.png');
 }
 /*
  * Off Canvas
