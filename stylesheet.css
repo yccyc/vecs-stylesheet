@@ -2309,12 +2309,12 @@ ul.list li:before {
  * @license		GNU General Public License version 2
 *******************************************************/
 /* category */
-#content h1,
+#content, .title-product,
 .heading_title {
   margin-top: 0;
-  border-bottom: 1px solid #858735;
-  margin-bottom: 1em;
-  padding-bottom: 0.5em;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 1.2em;
+  padding-bottom: 0.4em;
   position: relative;
   /*font-size: 24px;*/
   text-transform: uppercase;
