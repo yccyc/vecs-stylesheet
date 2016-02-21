@@ -4643,7 +4643,7 @@ border-bottom: 1px solid transparent;
   border-bottom: 1px solid #dddddd;
 }
 .panel-default {
-  border-color: #dddddd;
+  /*border-color: #dddddd;*/
 }
 .panel-default > .panel-heading {
   /* color: @heading-text-color;
