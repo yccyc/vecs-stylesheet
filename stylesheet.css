@@ -875,7 +875,7 @@ body .home-home4 .img-overlay:hover a:before {
 }
 #topbar .inner {
   padding: 5px 0 2px;
-  border-top: solid 5px #000000;
+  border-top: solid 1px #000000;
   border-bottom: solid 0px #ededed;
 }
 #topbar .btn-dropdown {
