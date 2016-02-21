@@ -2313,8 +2313,8 @@ ul.list li:before {
 .heading_title {
   margin-top: 0;
   border-bottom: 1px solid #858735;
-  margin-bottom: 20px;
-  padding-bottom: 0.8em;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
   position: relative;
   /*font-size: 24px;*/
   text-transform: uppercase;
