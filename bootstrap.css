@@ -685,14 +685,6 @@ pre code {
 .row {
   margin-left: -10px;
   margin-right: -10px;
-
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
- 
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
 }
 .row:before,
 .row:after {
@@ -762,9 +754,6 @@ pre code {
 .col-lg-10,
 .col-lg-11,
 .col-lg-12 {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   position: relative;
   min-height: 1px;
   padding-left: 10px;
