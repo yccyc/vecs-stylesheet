@@ -90,6 +90,7 @@ hr {
 mark {
   background: #ff0;
   color: #000;
+  margin-left: 4em;
 }
 code,
 kbd,
