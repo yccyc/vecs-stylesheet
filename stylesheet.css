@@ -546,7 +546,7 @@ ul.list a.active ul {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
-h1,
+/*h1,
 h2,
 h3,
 h4,
@@ -555,7 +555,8 @@ h6 {
   margin: 0;
   font-family: "brandon", serif;
   color: #000000;
-}
+}*/
+
 /*h1 {
   font-size: 26px;
   line-height: 32px;
