@@ -1357,11 +1357,11 @@ body .home-home4 .img-overlay:hover a:before {
   margin-right: 10px;
   width: 32px;
   position: relative;
-  background-color: #000000;
+  background-color: #858735;
   cursor: pointer;
 }
 #cart .icon-cart:hover {
-  background-color: #666666;
+  background-color: #BECC7F;
 }
 #cart .dropdown-menu {
   min-width: 100%;
