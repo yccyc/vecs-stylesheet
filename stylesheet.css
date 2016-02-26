@@ -3337,7 +3337,7 @@ padding: 0 @product-padding;
 #pav-mainnav .navbar ul.nav > li > a {
   text-transform: uppercase;
   font-size: 12px;
-  font-family: "brandon", serif;
+  /*font-family: "brandon", serif;*/
   z-index: 0;
   overflow: hidden;
   background-color: transparent !important;
