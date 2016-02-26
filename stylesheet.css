@@ -2592,7 +2592,7 @@ h1.heading_title {
 }
 .product-info .action > div a,
 .product-info .action > div button {
-  font-family: "brandon", serif;
+  /*font-family: "brandon", serif;*/
   font-size: 11px;
   text-transform: uppercase;
 }
