@@ -356,6 +356,7 @@ hr {
 }
 p {
   margin: 0 0 9px;
+  line-height: 1.5;
 }
 .lead {
   margin-bottom: 18px;
