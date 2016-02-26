@@ -414,7 +414,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: Heiti TC;
+  font-family: Noto Sans CJK, Heiti TC, arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
 }
@@ -431,7 +431,7 @@ h6 small,
 .h5 small,
 .h6 small {
   font-weight: normal;
-  font-family: Heiti TC;
+  font-family: Noto Sans CJK, Heiti TC, arial, sans-serif;
   line-height: 1;
   color: #999999;
 }
