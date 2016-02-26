@@ -2505,7 +2505,7 @@ h1.heading_title {
   top: 18px !important;
 }
 .product-info {
-  font-family: 'Noticia Text', serif;
+  font-family: Noto Sans CJK, Heiti TC, arial, sans-serif;
   margin-bottom: 21px;
 }
 .product-info > .left {
