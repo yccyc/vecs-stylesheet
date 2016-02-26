@@ -5397,9 +5397,9 @@ body.modal-open,
     font-size: 30px;
   }
   .carousel-caption {
-    left: 20%;
+/*    left: 20%;
     right: 20%;
-    padding-bottom: 30px;
+    padding-bottom: 30px;*/
   }
   .carousel-indicators {
     bottom: 20px;
