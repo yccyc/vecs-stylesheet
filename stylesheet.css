@@ -1190,7 +1190,7 @@ body .home-home4 .img-overlay:hover a:before {
   text-transform: uppercase;
   position: relative;
   color: #000000;
-  font-family: "brandon", serif;
+  /*font-family: "brandon", serif;*/
   font-size: 14px;
   letter-spacing: 2px;
   text-align: center;
