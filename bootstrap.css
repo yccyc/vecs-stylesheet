@@ -5361,7 +5361,7 @@ body.modal-open,
   position: absolute;
   left: 10%;
   right: 10%;
-  bottom: 50px;
+  bottom: 70px;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -5384,7 +5384,6 @@ body.modal-open,
   .carousel-caption {
     left: 20%;
     right: 20%;
-    padding-bottom: 20px;
   }
   .carousel-indicators {
     bottom: 20px;
