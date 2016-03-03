@@ -3350,9 +3350,9 @@ padding: 0 @product-padding;
 #pav-mainnav .dropdown-menu {
   padding: 10px 20px 20px;
   background-color: #ffffff;
- opacity:0.9;
+  opacity:0.9;
   color: #999999;
-  border: 2px solid #ededed;
+  border: 1px solid #858735;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
