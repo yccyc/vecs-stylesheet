@@ -54,7 +54,7 @@ audio:not([controls]) {
   display: none;
 }
 html {
-  font-family: brandon, sans-serif;
+  font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -278,7 +278,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: brandon, "Noto Sans CJK TC", "Heiti TC", arial, sans-serif;
+  font-family: Noto Sans CJK TC, Heiti TC, arial, sans-serif;
   font-size: 13px;
   line-height: 1.428571429;
   color: #666666;
@@ -414,7 +414,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: brandon, "Noto Sans CJK TC", "Heiti TC", arial, sans-serif;
+  font-family: Noto Sans CJK TC, Heiti TC, arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
 }
@@ -431,7 +431,7 @@ h6 small,
 .h5 small,
 .h6 small {
   font-weight: normal;
-  font-family: brandon, "Noto Sans CJK TC", "Heiti TC", arial, sans-serif;
+  font-family: Noto Sans CJK TC, Heiti TC, arial, sans-serif;
   line-height: 1;
   color: #999999;
 }
@@ -5301,7 +5301,7 @@ body.modal-open,
   height: 20px;
   margin-top: -10px;
   margin-left: -10px;
-  font-family: brandon, serif;
+  font-family: serif;
 }
 .carousel-control .icon-prev:before {
   content: '\2039';
