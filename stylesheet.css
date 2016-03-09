@@ -2505,7 +2505,7 @@ h1.heading_title {
   top: 18px !important;
 }
 .product-info {
-  font-family: Noto Sans CJK, Heiti TC, arial, sans-serif;
+  font-family: brandon, "Noto Sans CJK", "Heiti TC", arial, sans-serif;
   margin-bottom: 21px;
 }
 .product-info > .left {
@@ -3350,7 +3350,7 @@ padding: 0 @product-padding;
 #pav-mainnav .dropdown-menu {
   padding: 10px 20px 20px;
   background-color: #ffffff;
-  opacity:0.9;
+ opacity:0.9;
   color: #999999;
   border: 1px solid #858735;
   -webkit-border-radius: 5px;
