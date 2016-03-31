@@ -247,7 +247,7 @@ table.radio tr.highlight:hover td {
   box-shadow: none;
   -webkit-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
-  font-style: italic;
+  /*font-style: italic;*/
   padding: 5px 15px;
 }
 .button:hover,
