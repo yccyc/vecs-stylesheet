@@ -347,11 +347,11 @@ a.button {
   bottom: 0;
 }
 .carousel-control.left {
-  /*background-image: none;*/
+  background-image: none;
   filter: none;
 }
 .carousel-control.right {
-  /*background-image: none;*/
+  background-image: none;
   filter: none;
 }
 /* links style */
