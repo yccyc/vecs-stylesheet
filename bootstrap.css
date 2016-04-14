@@ -680,26 +680,7 @@ pre code {
     width: 1170px;
   }
 }
-.container:before,
-.container:after {
-  content: " ";
-  /* 1 */
-  display: table;
-  /* 2 */
-}
-.container:after {
-  clear: both;
-}
-.container:before,
-.container:after {
-  content: " ";
-  /* 1 */
-  display: table;
-  /* 2 */
-}
-.container:after {
-  clear: both;
-}
+
 .row {
   margin-left: -10px;
   margin-right: -10px;

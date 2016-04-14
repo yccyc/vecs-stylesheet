@@ -340,18 +340,18 @@ a.button {
   background-image: url('../../image/default/icon-next-hover.png');
 }
 .carousel-control {
-  color: #000000;
+  /*color: #000000;*/
   text-shadow: none;
-  top: 50%;
+  /*top: 50%;*/
   margin: -25px 0;
   bottom: 0;
 }
 .carousel-control.left {
-  background-image: none;
+  /*background-image: none;*/
   filter: none;
 }
 .carousel-control.right {
-  background-image: none;
+  /*background-image: none;*/
   filter: none;
 }
 /* links style */
