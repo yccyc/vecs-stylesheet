@@ -228,7 +228,7 @@ table.radio tr.highlight:hover td {
 .breadcrumb {
   padding-top: 0;
   padding-bottom: 0;
-  margin: 20px 0;
+  /*margin: 20px 0;*/
 }
 .breadcrumb a {
   color: #666666;
