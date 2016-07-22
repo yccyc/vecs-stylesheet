@@ -3634,8 +3634,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 .container-fluid {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
 }
